@@ -1,0 +1,11 @@
+_autosave-*
+\#auto_saved_files\#
+fp-info-cache
+*-backups/
+~*.lck
+*.tmp
+*.zip
+
+*.gbr
+*.gbrjob
+*.drl
