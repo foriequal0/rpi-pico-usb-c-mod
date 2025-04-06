@@ -5,6 +5,8 @@ This repository contains an adapter board for RPI Pico USB-C mod.
 It should be compatible with all versions of RPI Pico family (Pico, Pico W, Pico W, Pico WH, Pico 2, Pico 2 W), 
 although I've designed to mod a Pico 2 W.
 
+It supports both USB 2.0 data and power, just like micro-USB did.
+
 <img src="assets/installation.jpg" alt="installation" width=50%><img src="assets/installation2.jpg" alt="installation on side" width=50%>
 <img src="assets/adapter board.jpg" alt="adapter board front" width=50%><img src="assets/adapter board back.jpg" alt="adapter board back on side" width=50%>
 
